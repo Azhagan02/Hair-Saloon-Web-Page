@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/azhagan02/Hair-Saloon-Web-Page](https://github.com/Azhagan02/Hair-Saloon-Web-Page.git
+    git clone https://github.com/azhagan02/Hair-Saloon-Web-Page.git
     ```
 
 2. Navigate to the project directory:
